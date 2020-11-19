@@ -2,7 +2,7 @@
 
 Visualizando Dados de Eleições Americanas Presidenciais
 
-![us](US.png)
+![us](project/US.png)
 
 ## Referências:
 
